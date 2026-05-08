@@ -1,0 +1,278 @@
+filename,ocr_quality_score,is_parseable,text_length,word_count,patient_name,age_in_years,gender,patient_type,medicines,dosage_intake,diagnosis,doctor,hospital
+allergic_rhinitis_prescription.pdf,,TRUE,264,43,,30,,Neurological,Neurokind Plus,30 tablets,Peripheral neuropathy with oral/throat infection,,
+antique_health_society_prescription.pdf,,TRUE,296,43,,,,Neurological,Potash Brom Spiritus Ammonia Aromaticus,,,,
+azithromycin_prescription.pdf,,TRUE,301,51,Joseph McIntyre,28,M,Infectious,Azithromycin,200mg/5mL,Bacterial Infection,Jones,
+batch2_prescription1.pdf,,TRUE,389,62,Laxmi ,,F,Renal,"Inj Diclofenac
+Inj Pantoprazole","75mg IM stat
+40mg IV stat",Ranal Calculi,,Baba Saheb Ambedkar Hospital
+batch2_prescription2.pdf,,TRUE,205,41,,,F,Gynecological,,,Displaced intrauterine device,,
+batch2_prescription3.pdf,,TRUE,215,37,Kamin,,F,Gastrointestinal,"Lanzol-ER
+ Danpan","5 days
+5 days",Acid peptic disorder (APD),Dr. Jayaprakash Hebbar,
+cardiac_prescription.pdf,,TRUE,400,63,,,,Cardiovascular,"Nicardia R 20mg
+Lasix 40mg
+Rantac 150mg
+Ecosprin AV
+Amlodipine 10mg
+Nodosis
+Pantoprazole 40mg","3 times daily
+2 times daily
+2 times daily
+3 times daily
+1 time daily
+2 times daily
+2 times daily",Hypertension with congestive heart failure (CHF) + acid peptic disorder (APD),,
+clinical_note_enhanced.pdf,,TRUE,263,43,,,,Gynecological,,,Anovulatory cycles,,
+converted_prescription.pdf,,TRUE,839,142,Mansur,,M,Cardiovascular,,,Hypertension ,Moinuddin,
+derma_prescription.pdf,,TRUE,436,69,Shahista ,30,F,Dermatological,"Teb Acyclovir 800mg
+Mupirocin Cream
+Tyza-M Gel
+Tab Fexofenadiac 50mg
+Teb Levocetrizine","3 times daily
+Apply locally
+Apply as directed
+1 time daily
+1 time daily",Viral Skin Infection,Dr. Geeta Sharma,
+dr_b_who_prescription.pdf,,TRUE,200,39,,70,,Cardiovascular,Digonix 0.125mg,1 time daily,Congestive heart failure,Dr. B. Who Farmstreet ,
+dr_keshwani_prescription.pdf,,TRUE,435,71,Prathna,,F,Gastrointestinal,"Tab Oflazest OZ
+Tab Azenac MR
+Tab Andial
+Tab Zofec","2 times daily
+2 times daily
+3 times daily
+2 times daily",Acute gastroenteritis with dehydration,Dr. R. Keshwani ,Sunshine Family health centre
+emergency_card_transcribed.pdf,,TRUE,684,94,Laxmi ,52,F,"Gastrointestinal
+Heptobiliary","Inj Diclofenac
+Inj Pantoprazole","75mg IM stat
+40mg IV stat",Cholelithiasis with choledocholithiasis,Baba Saheb Ambedkar Hospital,
+enhanced_medical_note.pdf,,TRUE,690,109,BABYRITI DUBEY ,1,F,Pediatric,,,Bilateral profound sensorineural hearing loss,SAMPURNA GHOSH ,
+enhanced_prescription2.pdf,,TRUE,258,41,,,,Respiratory,"Granonex 0
+Levolin MN
+Nasivion","1 time daily
+1 time daily
+1 drop a day",Acute bronchospasm,,
+erythromycin_prescription.pdf,,TRUE,358,55,Alan Johnson,,M,Infectious,Erythromycin Ethylsuccinate 400mg,1 tsp four times daily,Bacterial Infection,Alfred Sauls,
+fairview_prescription.pdf,,TRUE,264,39,Mickey Mouse,,,Cardiovascular,Tab Atenol 25mg,1 time daily,Hypertension,,Fairview University Medical Centre
+final_set_1.pdf,,TRUE,164,24,Ratna Harissa,58,F,Infectious,Inj Ambisome 50mg,,Fungal Infection,Dr. Saulkeeth,
+final_set_2.pdf,,TRUE,114,16,Shorty Powell,,,Neurological,Phenytoin Sodium Extended 100mg,,Epilepsy,,
+final_set_3.pdf,,TRUE,215,35,,5,,Infectious,Amoxixillin 50mg,3 times daily,Bacterial Infection,Dr. B. Who,
+fortis_prescription.pdf,,TRUE,645,114,Chitra Aggarwal,57,F,Orthopedic,,,,Dr. Dhananjay Gupta,Fortis Institute of Advanced Orthopedics
+gynae_prescription-1.pdf,,TRUE,552,83,Shahista ,30,F,Dermatological,"Tab Acyclovir
+Tab Nelfinide
+Tab Theridac
+Tab Clindamycin 300mg
+Tab Zocon 150mg",,Perianal Infection,Dr. Vandita Sharma,Shrey hospital & Trauma Centre
+hcg_prescription.pdf,,TRUE,470,86,,,,Infectious,"Inj Liposomal Amphotericin B 350mg
+Inj Amphotericin B 70mg
+Inj Isavuconazole 200mg
+Cap Isavuconazole 200mg","1 time daily
+1 time daily
+3 times daily 
+2 times daily",Severe invasive fungal infection,,
+kamineni_note.pdf,,TRUE,409,67,Uday Kumar,46,M,Infectious,Inj IV Liposomal Amphotericin B,1 time a day,Rhino-orbital-cerebral mucormycosis,N. Apoorva Reddy,Kamineni Hospital
+losartan_prescription.pdf,,TRUE,401,66,Henry ,59,M,Cardiovascular,Tab Losarton 50mg,1 time daily,Hypertension,,Aptus Medical Arts
+medical_certificate_sheeba.pdf,,TRUE,475,74,Sheeba Mallik,,F,Orthopedic,,,Sciatica due to prolapsed intervertabral disc,Talat Aziz,
+oncology_prescription.pdf,,TRUE,573,104,Dalia Kundu,,F,Oncological,"HMW
+Clopid
+Tab Dexa BD
+Tab Ondem
+Tab Ultracet",,Metastatic breast cancer,Dr. Tanmoy Kumar Mandal,Netaji Subhash Chanra Bose Cancer Hospital
+oncology_rx2.pdf,,TRUE,252,34,,,F,Oncological,Oxycontin 80mg,1 time a day,Carcinoma with severe cancer-related pain,,Arlington Oncology Center
+prescription1.pdf,,TRUE,212,36,,,,Dental,Tab Ketorol DT SOS,1 time a day,Tooth pain,Geetika,
+prescription2.pdf,,TRUE,280,51,,,,Infectious,"Hydroxychloroquine 400mg
+Vitamin C 1mg
+Zinc 50mg
+Crocin 
+Cetrizine 10mg
+Syrup Alex","1 time a week
+1 time a day
+1 time a day
+
+1 time a day
+",COVID-19 prophulaxis,,Sir Ganga Ram Hospital
+prescription3.pdf,,TRUE,189,38,,,,Pediatric,"Montney
+Syrup Floease
+Fresisol
+Syrup Tamofresh","3 ml a day
+6 ml twice a day
+twice a day
+2.5 ml 10 times a day",Common Cold,Rahul Thakur,
+prescription_lolita_alvarez.pdf,,TRUE,314,47,Lolita Alvarez,39,F,Hematological,"Tab FeSO4
+Tab Ascorbic Acid 500mg","1 time a day
+1 time a day",Iron deficiency anemia,,
+set11_1.pdf,,TRUE,243,31,Good Bob,,M,Gastrointestinal,Ninazine,,Peptic ulcer disease,Leonidas H. Berry,
+set11_2.pdf,,TRUE,198,31,John Hubard,,M,Cardiovascular,"Acetaminophen 650mg
+Aspirin 81mg
+Clopidogrel 75mg","1 time a day
+1 time a day
+1 time a day",Coronary Artery Disease,Dr Jones,
+set11_3.pdf,,TRUE,166,27,Vaguez Ramon,,M,Hematological,"Zendid 20mg
+FeSO4 300mg
+Humulin N ","1 time a day
+1 time a day
+1 time a day",Iron deficiency anemia,,Medical Centre Hospital
+set11_4.pdf,,TRUE,204,37,Sachin Samsare,28,M,Dental,"Augmentin 625mg
+Enzoflam
+PanD 40mg
+Hexigel gum ","2 times daily
+2 times daily
+1 time daily
+2 times daily",Dental Infection,,The White Tusk
+set11_5.pdf,,TRUE,161,21,Ramchandra Rao,60,M,Infectious,"Phosome
+Amisome 300mg IV",,Severe invasive fungal infection,,Yashoda Hospital
+set12_1.pdf,,TRUE,169,29,,,,Respiratory,"Inj Dexa IV
+Nebulization
+Etc 50 5ml",,Acute Respiratory distress,"Dr. Sanjeev Kumar Sharma
+Dr. Bharat Kumar Sharma",
+set12_2.pdf,,TRUE,128,17,,,,Orthopedic,,,Multiple Injuries,,
+set12_3.pdf,,TRUE,197,28,Meena Dixit,41,F,Oncological,,,Carcinoma left breast,,
+set12_4.pdf,,TRUE,176,31,John Hubard,,M,Cardiovascular,"Acetaminophen 650mg
+Aspirin 81mg
+Clopidogrel 75mg
+Inj Isavuconazole 200mg","1 time a day
+1 time a day
+1 time a day
+1 time a day",Coronary Artery Disease,,CHUS Hospital
+set12_5.pdf,,TRUE,145,25,,,,Neurological,"Paracetamol 500mg
+Metoclopramide 10mg",,Migraine,B Who,
+set13_1.pdf,,TRUE,184,30,Vaguez Ramon,,,Cardiovascular,"Zestril 20mg
+FeSO4 300mg
+Humilin N ",,Iron deficiency anemia,,Medical Centre Hospital
+set13_3.pdf,,TRUE,206,35,Addul Mohit,2.4,M,Pediatric,"Megaconorte Amultric Solution
+Ebungol Syrup
+Oddria Oral 
+Anverctal 120mg","2 times a day
+3.2 ml a day
+",Fever,Ramesh S,Shivpuriya Child Care Centre
+set13_4.pdf,,TRUE,98,16,Todd Brazs,,,Addiction,Methodone 10mg,1 time a day,Methdone Therapy,,Doctors Urgent Care Clinic
+set14_2.pdf,,TRUE,155,25,Shailendra Kumar,37,M,Infectious,Ramdesivir 200mg IV,1 time a day,COVID-19,,Ramaiah Memorial Hospital
+set14_3.pdf,,TRUE,202,28,,30,M,Cardiovascular,"Stamlo 5mg
+Abivart 5mg
+Thyrox 75mg
+Bplex forte",1 time a day,Hypertension with hypothyroidism,,Sai Clinic
+set14_4.pdf,,TRUE,155,27,,,,Respiratory,"Sinarest AF syrup
+Mucolite LC syrup
+Meftal-P Tab","2 times a day
+3 times a day
+2 times a day",Acute Respiratory distress,Ashok Gupta,
+set14_5.pdf,,TRUE,64,10,,,,Symptomatic,Novalgin ,1 time a day,Fever,,
+set15_1.pdf,,TRUE,164,26,,,,Nephrological,,,Bilateral  medical renal disease,,
+set15_2.pdf,,TRUE,134,16,Keviy,,,Pediatric,Croxin,,Febrile illness,,
+set15_3.pdf,,TRUE,129,19,R W Lytle,,F,General,"Liq Hydrarg
+Chloroform mixture
+Sodium Biot syrup",,,,
+set15_4.pdf,,TRUE,156,22,,,,Neurological,"Cannabis indica extract
+Crotom chloral","10 times a day
+10 times a day",Migraine,W P Baker,
+set3_pdf1.pdf,,TRUE,384,56,,,,Urological,,,Left renal calculi without hydronephrosis,,
+set3_pdf3.pdf,,TRUE,136,27,,,,Gastrointestinal,"Pepsin 3
+Calomel 5gr","3 times a day
+2 times a day",Dyspepsia,,
+set3_pdf4.pdf,,TRUE,206,35,,,,Infectious,"Inj Liposomal Amphotericin B 350mg
+Inj Amphotericin B 70mg","1 time a day
+1 time a day",Severe invasive fungal infection,Dr M Venkateswar Rao,
+set3_pdf5.pdf,,TRUE,239,39,,26,,Cardiovascular,,,cardiac condition,Manila Hospital,
+set4_1.pdf,,TRUE,232,31,Akella Vamun,50,M,Infectious,Inj Liposomal Amphotericin B 300mg,1 time a week,Mucormycosis,,
+set4_2.pdf,,TRUE,280,50,Ismat Shaik ,46,M,Infectious,,,Suspected rhino-orbit mucormycosis,,
+set4_3.pdf,,TRUE,247,42,,,,Pediatric,"Syrup Emeset 4ml
+Tab Lanzol 15mg
+Enterogermina 5ml",,Acute gastroenteritis with dehydration,,
+set4_4.pdf,,TRUE,268,43,,,,Neurological,,,Spinal cord injury with paraplegia,,
+set4_5.pdf,,TRUE,304,55,,,,Cardiovascular,,,Suspected deep vein thrombosis with systemic infection and hypoxia,,
+set5_1.pdf,,TRUE,264,47,,,,ENT,"Syrup Asmactics 6ml
+Ambrolites Syrup 4ml
+Nasoclear nasal drops
+Levocetrizine Tab","1 time a day
+2 times a day
+2 times a day
+2 times a day",Nasolacrimal duct obstruction,,
+set5_2.pdf,,TRUE,141,27,,,,Cardiovascular,"Deplatt A 150mg
+Aztor 80mg
+Nitrozen Contin 2.6mg",,Acute ST-elevation myocardial infraction,,
+set5_3.pdf,,TRUE,136,30,,,,Infectious,"Inj Remdec 200mg 
+Inj Actemra 400mg","2 times a day
+2 times a day",Severe COVID 19 Infection,,
+set5_4.pdf,,TRUE,247,42,,,,Pediatric,"T minic drops 0.3ml
+Anthakind drops 0.5ml
+Nanoclean drops
+HH Zole cream","3 times a day
+3 times a day
+2 times a day
+2 times a day",Upper respiratory tract infection with mild throat irritation,,
+set5_5.pdf,,TRUE,221,35,,,,Orthopedic,"Ultrafen Plus
+Reltinax
+Ultracal D
+Cartilix",,Osteoarthritis of knee,,
+set6_1.pdf,,TRUE,296,68,,,,Cardiovascular,"Inj Cleavane 60
+Cap Doxy 100mg
+Nebstar 2.5mg
+Vitamin C 500
+Zincovit 
+Metocard XL 25mg
+Ecosprin 75mg
+Dytor 20mg","Once
+2 times a day
+1 time a day
+1 time a day
+2 time a day
+1 time a day
+1 time a day
+1 time a day",Severe lower respiratory tract infection,,
+set6_2.pdf,,TRUE,201,31,,,,Gastrointestinal,"Contaar 60mg
+Norvanin RT",,Functional Dyspepsia,,
+set6_3.pdf,,TRUE,195,38,,,,Neurological,"Inj Tramadol
+Gravinate
+Inj Dril 
+Sobrosef 250mg
+Inj Risek 40mg IV",,"GRED with hypothyroidism ,migraine ,IBS, Asthama",,
+set6_4.pdf,,TRUE,130,20,,,,Pediatric,"Candibiotic ear drops
+Tanin O drops
+Nanoclear nasal drops
+Bonnisan drops",,Otitis media,,
+set6_5.pdf,,TRUE,207,35,,52,F,Cardiovescular,"Inj Diclofenac
+Inj Rantac
+ORS 
+Diclo Tab
+Rantac Tab",,Hypertension with acute abdominal pain,,
+set7_1.pdf,,TRUE,203,44,,,,Infectious,"Cefalex Syrup 3ml
+RB Tone Kid Syrup 2.5ml
+Wikoryl syrup 3ml","2 times a day
+1 time a day
+3 times a day",Typhoid fever with anemia,,
+set7_2.pdf,,TRUE,108,17,,,,Infectious,"Liposomal Amphotericin 80mg
+Amphotericin 50mg IV",,Severe invasion fungal infection,ug,
+set7_3.pdf,,TRUE,85,14,,,,Infectious,Amoxicilin Suspension 50mg,3 times a day,,,
+set7_4.pdf,,TRUE,105,21,,,,Cardiovescular,"Epaned Syrup
+Crocin DS 4ml
+Defetal P 4ml","2 times a day
+2 times a day
+2 times a day",Pediatric hypertension with fever,,
+set7_5.pdf,,TRUE,110,19,,,,Infectious,Amoxixillin 500mg,3 times a day,Bacterial Infection,,
+set8_2.pdf,,TRUE,133,23,J Paris,,F,Gynecological,Stiesstrol 25mg,5 times a day,Estogen deficiency,,
+set8_3.pdf,,TRUE,113,20,J Paris,,F,Gynecological,Stiesstrol 25mg,4 times a day,Menopausal disorder,,
+set8_4.pdf,,TRUE,179,38,Rachel,29,M,Respiratory,"Azee 500mg
+Syrup Tusq
+Pantop
+Dolo 650 ","2 times a day
+2 times a day
+2 times a day
+2 times a day",Upper respiratory tract infection,,
+set8_5.pdf,,TRUE,169,32,John Smith,34,M,Cardiovascular,"Betaloc 100mg
+Dorzolamium 10mg
+Cimetidine 50mg
+Oxprelol 50mg","2 times a day
+2 times a day
+3 times a day
+3 times a day",Hypertension,,
+set9_1.pdf,,TRUE,116,19,Lina Cruz,,F,Pain Management,"Tramadol
+Paracetamol","2 times a day
+3 times a day",Acute moderate pain,,
+set9_2.pdf,,TRUE,164,26,,,,Neurological,"Paracetamol 500mg
+Metoclopramide 10mg","2 times a day
+2 times a day",Migraine,B Who,
+vintage_1928_prescription.pdf,,TRUE,546,81,Ruth Duechery,,M,General,"Fluid extract
+Paramatorium",,,William Lewis Towns,
+vintage_prescription.pdf,,TRUE,302,42,Bellinche,,F,Respiratory,"Heroin Hydrochloride
+Compound Creosote Emulsion","4 times a day
+4 times a day",Chronic cough,G R Combs,
+zolpidem_prescription.pdf,,TRUE,196,30,,,,Psychiatric,Zolpidem 10mg,1 time a day,Insomnia,,

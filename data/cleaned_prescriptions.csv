@@ -1,0 +1,88 @@
+filename,is_parseable,text_length,word_count,patient_name,age_in_years,gender,patient_type,medicines,dosage_intake,diagnosis,doctor,hospital,age_group
+allergic_rhinitis_prescription.pdf,True,264,43,Unknown,30,Unknown,Neurological,Neurokind Plus,30 tablets,Peripheral neuropathy with oral/throat infection,Unknown,Unknown,Adult
+antique_health_society_prescription.pdf,True,296,43,Unknown,0,Unknown,Neurological,Potash Brom Spiritus Ammonia Aromaticus,Not specified,Unspecified,Unknown,Unknown,Unknown
+azithromycin_prescription.pdf,True,301,51,Joseph McIntyre,28,M,Infectious,Azithromycin,200mg/5mL,Bacterial Infection,Jones,Unknown,Adult
+batch2_prescription1.pdf,True,389,62,Laxmi,0,F,Renal,Inj Diclofenac | Inj Pantoprazole,75mg IM stat | 40mg IV stat,Renal Calculi,Unknown,Baba Saheb Ambedkar Hospital,Unknown
+batch2_prescription2.pdf,True,205,41,Unknown,0,F,Gynecological,Not specified,Not specified,Displaced intrauterine device,Unknown,Unknown,Unknown
+batch2_prescription3.pdf,True,215,37,Kamin,0,F,Gastrointestinal,Lanzol-ER | Danpan,5 days | 5 days,Acid peptic disorder (APD),Dr. Jayaprakash Hebbar,Unknown,Unknown
+cardiac_prescription.pdf,True,400,63,Unknown,0,Unknown,Cardiovascular,Nicardia R 20mg | Lasix 40mg | Rantac 150mg | Ecosprin AV | Amlodipine 10mg | Nodosis | Pantoprazole 40mg,TDS (three times daily) | BD (BD (twice daily)) | BD (BD (twice daily)) | TDS (three times daily) | OD (OD (once daily) daily) | BD (BD (twice daily)) | BD (BD (twice daily)),Hypertension with congestive heart failure (CHF) + acid peptic disorder (APD),Unknown,Unknown,Unknown
+clinical_note_enhanced.pdf,True,263,43,Unknown,0,Unknown,Gynecological,Not specified,Not specified,Anovulatory cycles,Unknown,Unknown,Unknown
+converted_prescription.pdf,True,839,142,Mansur,0,M,Cardiovascular,Not specified,Not specified,Hypertension,Moinuddin,Unknown,Unknown
+derma_prescription.pdf,True,436,69,Shahista,30,F,Dermatological,Tab Acyclovir 800mg | Mupirocin Cream | Tyza-M Gel | Tab Fexofenadine 50mg | Tab Levocetrizine,TDS (three times daily) | Apply locally | Apply as directed | OD (OD (once daily) daily) | OD (OD (once daily) daily),Viral Skin Infection,Dr. Geeta Sharma,Unknown,Adult
+dr_b_who_prescription.pdf,True,200,39,Unknown,70,Unknown,Cardiovascular,Digonix 0.125mg,OD (OD (once daily) daily),Congestive heart failure,Dr. B. Who Farmstreet,Unknown,Senior
+dr_keshwani_prescription.pdf,True,435,71,Prathna,0,F,Gastrointestinal,Tab Oflazest OZ | Tab Azenac MR | Tab Andial | Tab Zofec,BD (BD (twice daily)) | BD (BD (twice daily)) | TDS (three times daily) | BD (BD (twice daily)),Acute gastroenteritis with dehydration,Dr. R. Keshwani,Sunshine Family health centre,Unknown
+emergency_card_transcribed.pdf,True,684,94,Laxmi,52,F,Gastrointestinal/Hepatobiliary,Inj Diclofenac | Inj Pantoprazole,75mg IM stat | 40mg IV stat,Cholelithiasis with choledocholithiasis,Baba Saheb Ambedkar Hospital,Unknown,Adult
+enhanced_medical_note.pdf,True,690,109,BABYRITI DUBEY,1,F,Pediatric,Not specified,Not specified,Bilateral profound sensorineural hearing loss,SAMPURNA GHOSH,Unknown,Child
+enhanced_prescription2.pdf,True,258,41,Unknown,0,Unknown,Respiratory,Granonex 0 | Levolin MN | Nasivion,OD (OD (once daily) daily) | OD (OD (once daily) daily) | 1 drop a day,Acute bronchospasm,Unknown,Unknown,Unknown
+erythromycin_prescription.pdf,True,358,55,Alan Johnson,0,M,Infectious,Erythromycin Ethylsuccinate 400mg,1 tsp four times daily,Bacterial Infection,Alfred Sauls,Unknown,Unknown
+fairview_prescription.pdf,True,264,39,Mickey Mouse,0,Unknown,Cardiovascular,Tab Atenol 25mg,OD (OD (once daily) daily),Hypertension,Unknown,Fairview University Medical Centre,Unknown
+final_set_1.pdf,True,164,24,Ratna Harissa,58,F,Infectious,Inj Ambisome 50mg,Not specified,Fungal Infection,Dr. Saulkeeth,Unknown,Adult
+final_set_2.pdf,True,114,16,Shorty Powell,0,Unknown,Neurological,Phenytoin Sodium Extended 100mg,Not specified,Epilepsy,Unknown,Unknown,Unknown
+final_set_3.pdf,True,215,35,Unknown,5,Unknown,Infectious,Amoxicillin 50mg,TDS (three times daily),Bacterial Infection,Dr. B. Who,Unknown,Child
+fortis_prescription.pdf,True,645,114,Chitra Aggarwal,57,F,Orthopedic,Not specified,Not specified,Unspecified,Dr. Dhananjay Gupta,Fortis Institute of Advanced Orthopedics,Adult
+gynae_prescription-1.pdf,True,552,83,Shahista,30,F,Dermatological,Tab Acyclovir | Tab Nelfinide | Tab Theridac | Tab Clindamycin 300mg | Tab Zocon 150mg,Not specified,Perianal Infection,Dr. Vandita Sharma,Shrey hospital & Trauma Centre,Adult
+hcg_prescription.pdf,True,470,86,Unknown,0,Unknown,Infectious,Inj Liposomal Amphotericin B 350mg | Inj Amphotericin B 70mg | Inj Isavuconazole 200mg | Cap Isavuconazole 200mg,OD (OD (once daily) daily) | OD (OD (once daily) daily) | TDS (three times daily) | BD (BD (twice daily)),Severe invasive fungal infection,Unknown,Unknown,Unknown
+kamineni_note.pdf,True,409,67,Uday Kumar,46,M,Infectious,Inj IV Liposomal Amphotericin B,OD (OD (once daily) daily),Rhino-orbital-cerebral mucormycosis,N. Apoorva Reddy,Kamineni Hospital,Adult
+losartan_prescription.pdf,True,401,66,Henry,59,M,Cardiovascular,Tab Losarton 50mg,OD (OD (once daily) daily),Hypertension,Unknown,Aptus Medical Arts,Adult
+medical_certificate_sheeba.pdf,True,475,74,Sheeba Mallik,0,F,Orthopedic,Not specified,Not specified,Sciatica due to prolapsed intervertebral disc,Talat Aziz,Unknown,Unknown
+oncology_prescription.pdf,True,573,104,Dalia Kundu,0,F,Oncological,HMW | Clopid | Tab Dexa BD | Tab Ondem | Tab Ultracet,Not specified,Metastatic breast cancer,Dr. Tanmoy Kumar Mandal,Netaji Subhash Chanra Bose Cancer Hospital,Unknown
+oncology_rx2.pdf,True,252,34,Unknown,0,F,Oncological,Oxycontin 80mg,OD (OD (once daily) daily),Carcinoma with severe cancer-related pain,Unknown,Arlington Oncology Center,Unknown
+prescription1.pdf,True,212,36,Unknown,0,Unknown,Dental,Tab Ketorol DT SOS,OD (OD (once daily) daily),Tooth pain,Geetika,Unknown,Unknown
+prescription2.pdf,True,280,51,Unknown,0,Unknown,Infectious,Hydroxychloroquine 400mg | Vitamin C 1mg | Zinc 50mg | Crocin | Cetrizine 10mg | Syrup Alex,1 time a week | OD (OD (once daily) daily) | OD (OD (once daily) daily) | | OD (OD (once daily) daily),COVID-19 prophylaxis,Unknown,Sir Ganga Ram Hospital,Unknown
+prescription3.pdf,True,189,38,Unknown,0,Unknown,Pediatric,Montney | Syrup Floease | Fresisol | Syrup Tamofresh,3 ml a day | 6 ml BD (twice daily) | BD (twice daily) | 2.5 ml 10 times daily,Common Cold,Rahul Thakur,Unknown,Unknown
+prescription_lolita_alvarez.pdf,True,314,47,Lolita Alvarez,39,F,Hematological,Tab FeSO4 | Tab Ascorbic Acid 500mg,OD (OD (once daily) daily) | OD (OD (once daily) daily),Iron deficiency anemia,Unknown,Unknown,Adult
+set11_1.pdf,True,243,31,Good Bob,0,M,Gastrointestinal,Ninazine,Not specified,Peptic ulcer disease,Leonidas H. Berry,Unknown,Unknown
+set11_2.pdf,True,198,31,John Hubard,0,M,Cardiovascular,Acetaminophen 650mg | Aspirin 81mg | Clopidogrel 75mg,OD (OD (once daily) daily) | OD (OD (once daily) daily) | OD (OD (once daily) daily),Coronary Artery Disease,Dr Jones,Unknown,Unknown
+set11_3.pdf,True,166,27,Vaguez Ramon,0,M,Hematological,Zendid 20mg | FeSO4 300mg | Humulin N,OD (OD (once daily) daily) | OD (OD (once daily) daily) | OD (OD (once daily) daily),Iron deficiency anemia,Unknown,Medical Centre Hospital,Unknown
+set11_4.pdf,True,204,37,Sachin Samsare,28,M,Dental,Augmentin 625mg | Enzoflam | PanD 40mg | Hexigel gum,BD (BD (twice daily)) | BD (BD (twice daily)) | OD (OD (once daily) daily) | BD (BD (twice daily)),Dental Infection,Unknown,The White Tusk,Adult
+set11_5.pdf,True,161,21,Ramchandra Rao,60,M,Infectious,Phosome | Ambisome 300mg IV,Not specified,Severe invasive fungal infection,Unknown,Yashoda Hospital,Senior
+set12_1.pdf,True,169,29,Unknown,0,Unknown,Respiratory,Inj Dexa IV | Nebulization | Etc 50 5ml,Not specified,Acute Respiratory distress,"Dr. Sanjeev Kumar Sharma
+Dr. Bharat Kumar Sharma",Unknown,Unknown
+set12_2.pdf,True,128,17,Unknown,0,Unknown,Orthopedic,Not specified,Not specified,Multiple Injuries,Unknown,Unknown,Unknown
+set12_3.pdf,True,197,28,Meena Dixit,41,F,Oncological,Not specified,Not specified,Carcinoma left breast,Unknown,Unknown,Adult
+set12_4.pdf,True,176,31,John Hubard,0,M,Cardiovascular,Acetaminophen 650mg | Aspirin 81mg | Clopidogrel 75mg | Inj Isavuconazole 200mg,OD (OD (once daily) daily) | OD (OD (once daily) daily) | OD (OD (once daily) daily) | OD (OD (once daily) daily),Coronary Artery Disease,Unknown,CHUS Hospital,Unknown
+set12_5.pdf,True,145,25,Unknown,0,Unknown,Neurological,Paracetamol 500mg | Metoclopramide 10mg,Not specified,Migraine,B Who,Unknown,Unknown
+set13_1.pdf,True,184,30,Vaguez Ramon,0,Unknown,Cardiovascular,Zestril 20mg | FeSO4 300mg | Humulin N,Not specified,Iron deficiency anemia,Unknown,Medical Centre Hospital,Unknown
+set13_3.pdf,True,206,35,Addul Mohit,2,M,Pediatric,Megaconorte Amultric Solution | Ebungol Syrup | Oddria Oral | Anverctal 120mg,BD (BD (twice daily)) | 3.2 ml a day,Fever,Ramesh S,Shivpuriya Child Care Centre,Child
+set13_4.pdf,True,98,16,Todd Brazs,0,Unknown,Addiction,Methodone 10mg,OD (OD (once daily) daily),Methdone Therapy,Unknown,Doctors Urgent Care Clinic,Unknown
+set14_2.pdf,True,155,25,Shailendra Kumar,37,M,Infectious,Ramdesivir 200mg IV,OD (OD (once daily) daily),COVID-19,Unknown,Ramaiah Memorial Hospital,Adult
+set14_3.pdf,True,202,28,Unknown,30,M,Cardiovascular,Stamlo 5mg | Abivart 5mg | Thyrox 75mg | Bplex forte,OD (OD (once daily) daily),Hypertension with hypothyroidism,Unknown,Sai Clinic,Adult
+set14_4.pdf,True,155,27,Unknown,0,Unknown,Respiratory,Sinarest AF syrup | Mucolite LC syrup | Meftal-P Tab,BD (BD (twice daily)) | TDS (three times daily) | BD (BD (twice daily)),Acute Respiratory distress,Ashok Gupta,Unknown,Unknown
+set14_5.pdf,True,64,10,Unknown,0,Unknown,General,Novalgin,OD (OD (once daily) daily),Fever,Unknown,Unknown,Unknown
+set15_1.pdf,True,164,26,Unknown,0,Unknown,Renal,Not specified,Not specified,Bilateral  medical renal disease,Unknown,Unknown,Unknown
+set15_2.pdf,True,134,16,Keviy,0,Unknown,Pediatric,Croxin,Not specified,Febrile illness,Unknown,Unknown,Unknown
+set15_3.pdf,True,129,19,R W Lytle,0,F,General,Liq Hydrarg | Chloroform mixture | Sodium Biot syrup,Not specified,Unspecified,Unknown,Unknown,Unknown
+set15_4.pdf,True,156,22,Unknown,0,Unknown,Neurological,Cannabis indica extract | Crotom chloral,10 times daily | 10 times daily,Migraine,W P Baker,Unknown,Unknown
+set3_pdf1.pdf,True,384,56,Unknown,0,Unknown,Urological,Not specified,Not specified,Left renal calculi without hydronephrosis,Unknown,Unknown,Unknown
+set3_pdf3.pdf,True,136,27,Unknown,0,Unknown,Gastrointestinal,Pepsin 3 | Calomel 5gr,TDS (three times daily) | BD (BD (twice daily)),Dyspepsia,Unknown,Unknown,Unknown
+set3_pdf4.pdf,True,206,35,Unknown,0,Unknown,Infectious,Inj Liposomal Amphotericin B 350mg | Inj Amphotericin B 70mg,OD (OD (once daily) daily) | OD (OD (once daily) daily),Severe invasive fungal infection,Dr M Venkateswar Rao,Unknown,Unknown
+set3_pdf5.pdf,True,239,39,Unknown,26,Unknown,Cardiovascular,Not specified,Not specified,Cardiac condition,Manila Hospital,Unknown,Adult
+set4_1.pdf,True,232,31,Akella Vamun,50,M,Infectious,Inj Liposomal Amphotericin B 300mg,1 time a week,Mucormycosis,Unknown,Unknown,Adult
+set4_2.pdf,True,280,50,Ismat Shaik,46,M,Infectious,Not specified,Not specified,Suspected rhino-orbit mucormycosis,Unknown,Unknown,Adult
+set4_3.pdf,True,247,42,Unknown,0,Unknown,Pediatric,Syrup Emeset 4ml | Tab Lanzol 15mg | Enterogermina 5ml,Not specified,Acute gastroenteritis with dehydration,Unknown,Unknown,Unknown
+set4_4.pdf,True,268,43,Unknown,0,Unknown,Neurological,Not specified,Not specified,Spinal cord injury with paraplegia,Unknown,Unknown,Unknown
+set4_5.pdf,True,304,55,Unknown,0,Unknown,Cardiovascular,Not specified,Not specified,Suspected deep vein thrombosis with systemic infection and hypoxia,Unknown,Unknown,Unknown
+set5_1.pdf,True,264,47,Unknown,0,Unknown,ENT,Syrup Asmactics 6ml | Ambrolites Syrup 4ml | Nasoclear nasal drops | Levocetrizine Tab,OD (OD (once daily) daily) | BD (BD (twice daily)) | BD (BD (twice daily)) | BD (BD (twice daily)),Nasolacrimal duct obstruction,Unknown,Unknown,Unknown
+set5_2.pdf,True,141,27,Unknown,0,Unknown,Cardiovascular,Deplatt A 150mg | Aztor 80mg | Nitrozen Contin 2.6mg,Not specified,Acute ST-elevation myocardial infarction,Unknown,Unknown,Unknown
+set5_3.pdf,True,136,30,Unknown,0,Unknown,Infectious,Inj Remdec 200mg | Inj Actemra 400mg,BD (BD (twice daily)) | BD (BD (twice daily)),Severe COVID 19 Infection,Unknown,Unknown,Unknown
+set5_4.pdf,True,247,42,Unknown,0,Unknown,Pediatric,T minic drops 0.3ml | Anthakind drops 0.5ml | Nanoclean drops | HH Zole cream,TDS (three times daily) | TDS (three times daily) | BD (BD (twice daily)) | BD (BD (twice daily)),Upper respiratory tract infection with mild throat irritation,Unknown,Unknown,Unknown
+set5_5.pdf,True,221,35,Unknown,0,Unknown,Orthopedic,Ultrafen Plus | Reltinax | Ultracal D | Cartilix,Not specified,Osteoarthritis of knee,Unknown,Unknown,Unknown
+set6_1.pdf,True,296,68,Unknown,0,Unknown,Cardiovascular,Inj Cleavane 60 | Cap Doxy 100mg | Nebstar 2.5mg | Vitamin C 500 | Zincovit | Metocard XL 25mg | Ecosprin 75mg | Dytor 20mg,OD (once daily) | BD (BD (twice daily)) | OD (OD (once daily) daily) | OD (OD (once daily) daily) | 2 time a day | OD (OD (once daily) daily) | OD (OD (once daily) daily) | OD (OD (once daily) daily),Severe lower respiratory tract infection,Unknown,Unknown,Unknown
+set6_2.pdf,True,201,31,Unknown,0,Unknown,Gastrointestinal,Contaar 60mg | Norvanin RT,Not specified,Functional Dyspepsia,Unknown,Unknown,Unknown
+set6_3.pdf,True,195,38,Unknown,0,Unknown,Neurological,Inj Tramadol | Gravinate | Inj Dril | Sobrosef 250mg | Inj Risek 40mg IV,Not specified,"GERD with hypothyroidism, migraine, IBS, Asthma",Unknown,Unknown,Unknown
+set6_4.pdf,True,130,20,Unknown,0,Unknown,Pediatric,Candibiotic ear drops | Tanin O drops | Nanoclear nasal drops | Bonnisan drops,Not specified,Otitis media,Unknown,Unknown,Unknown
+set6_5.pdf,True,207,35,Unknown,52,F,Cardiovascular,Inj Diclofenac | Inj Rantac | ORS | Diclo Tab | Rantac Tab,Not specified,Hypertension with acute abdominal pain,Unknown,Unknown,Adult
+set7_1.pdf,True,203,44,Unknown,0,Unknown,Infectious,Cefalex Syrup 3ml | RB Tone Kid Syrup 2.5ml | Wikoryl syrup 3ml,BD (BD (twice daily)) | OD (OD (once daily) daily) | TDS (three times daily),Typhoid fever with anemia,Unknown,Unknown,Unknown
+set7_2.pdf,True,108,17,Unknown,0,Unknown,Infectious,Liposomal Amphotericin 80mg | Amphotericin 50mg IV,Not specified,Severe invasive fungal infection,ug,Unknown,Unknown
+set7_3.pdf,True,85,14,Unknown,0,Unknown,Infectious,Amoxicillin Suspension 50mg,TDS (three times daily),Unspecified,Unknown,Unknown,Unknown
+set7_4.pdf,True,105,21,Unknown,0,Unknown,Cardiovascular,Epaned Syrup | Crocin DS 4ml | Defetal P 4ml,BD (BD (twice daily)) | BD (BD (twice daily)) | BD (BD (twice daily)),Pediatric hypertension with fever,Unknown,Unknown,Unknown
+set7_5.pdf,True,110,19,Unknown,0,Unknown,Infectious,Amoxicillin 500mg,TDS (three times daily),Bacterial Infection,Unknown,Unknown,Unknown
+set8_2.pdf,True,133,23,J Paris,0,F,Gynecological,Stiesstrol 25mg,5 times a day,Estrogen deficiency,Unknown,Unknown,Unknown
+set8_3.pdf,True,113,20,J Paris,0,F,Gynecological,Stiesstrol 25mg,QID (four times daily),Menopausal disorder,Unknown,Unknown,Unknown
+set8_4.pdf,True,179,38,Rachel,29,M,Respiratory,Azee 500mg | Syrup Tusq | Pantop | Dolo 650,BD (BD (twice daily)) | BD (BD (twice daily)) | BD (BD (twice daily)) | BD (BD (twice daily)),Upper respiratory tract infection,Unknown,Unknown,Adult
+set8_5.pdf,True,169,32,John Smith,34,M,Cardiovascular,Betaloc 100mg | Dorzolamium 10mg | Cimetidine 50mg | Oxprelol 50mg,BD (BD (twice daily)) | BD (BD (twice daily)) | TDS (three times daily) | TDS (three times daily),Hypertension,Unknown,Unknown,Adult
+set9_1.pdf,True,116,19,Lina Cruz,0,F,Pain Management,Tramadol | Paracetamol,BD (BD (twice daily)) | TDS (three times daily),Acute moderate pain,Unknown,Unknown,Unknown
+set9_2.pdf,True,164,26,Unknown,0,Unknown,Neurological,Paracetamol 500mg | Metoclopramide 10mg,BD (BD (twice daily)) | BD (BD (twice daily)),Migraine,B Who,Unknown,Unknown
+vintage_1928_prescription.pdf,True,546,81,Ruth Duechery,0,M,General,Fluid extract | Paramatorium,Not specified,Unspecified,William Lewis Towns,Unknown,Unknown
+vintage_prescription.pdf,True,302,42,Bellinche,0,F,Respiratory,Heroin Hydrochloride | Compound Creosote Emulsion,QID (four times daily) | QID (four times daily),Chronic cough,G R Combs,Unknown,Unknown
+zolpidem_prescription.pdf,True,196,30,Unknown,0,Unknown,Psychiatric,Zolpidem 10mg,OD (OD (once daily) daily),Insomnia,Unknown,Unknown,Unknown
